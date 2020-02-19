@@ -1,3 +1,5 @@
+**※※ PUBLIC リポジトリなので push 内容に注意 ※※**
+
 # docbase-draw-io
 docbase の図 (画像ファイル) のソース管理
 
